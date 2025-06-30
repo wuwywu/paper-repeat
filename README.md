@@ -12,7 +12,6 @@
         - adaptive_explosive_sync.ipynb
         - adaptive_multilayer_explosive_sync.ipynb
       - explosive_sync.ipynb
-      - explosive_sync_disorder_induces.ipynb
       - explosive_sync_piecewise_Rossler.ipynb
       - transient_explosive_sync_resource_constraint.ipynb
     - Kuramoto/
