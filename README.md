@@ -19,6 +19,10 @@
       - multiple_layers_Higher_order_structures.ipynb
     - Kuramoto/
       - path_to_synchronization.ipynb
+    - MSF/
+      - sync_ML_chem_msf.ipynb
+
+
   
 ## list of papers
 
@@ -32,4 +36,6 @@
 | path_to_synchronization.ipynb | J. Gómez-Gardeñes, et al. Paths to synchronization on complex networks, Phys. Rev. Lett. 98, 34101 (2007). |  |
 | multiple_layers_Higher_order_structures.ipynb | M.S. Anwar, et al., Stability of synchronization in simplicial complexes with multiple interaction layers, Phys. Rev. E 106, 034314 (2022). |  |
 | explosive_sync_repulsive_HOI.ipynb | A. Farrera-Megchun, et al. Explosive synchronization driven by repulsive higher-order interactions in coupled neurons, Chaos, Solitons & Fractals 196 (2025) 116368. | 重复的有问题 (无法重复出爆炸同步效果) |
+| sync_ML_chem_msf.ipynb | W. Nicola, Rapid changes in synchronizability in conductance-based neuronal networks with conductance-based coupling, Chaos 34, 023123 (2024). | 化学突触连接的ML模型，使用MSF研究。 |
 |  |  |  |
+
